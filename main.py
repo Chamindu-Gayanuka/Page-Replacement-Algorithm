@@ -3,6 +3,7 @@
 # Modern Dark Theme using CustomTkinter
 # ================================================
 
+import utils.session
 import customtkinter as ctk
 from tkinter import messagebox
 
