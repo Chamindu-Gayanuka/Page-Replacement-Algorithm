@@ -1,2 +1,4 @@
-config.bat
+.vscode
+.idea
 node_modules
+.env
